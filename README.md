@@ -123,7 +123,7 @@ By establishing the Pikachu, you are deemed to have accepted these responsibilit
     
   [![ameer-kallumthodi](https://github.com/ameer-kallumthodi.png?size=100)](https://github.com/ameer-kallumthodi) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
 ----|----|----
-[Ameer Suhail](https://github.com/ameer-kallumthodi) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
+[Ameer Suhail](https://github.com/ameer-kallumthodi) | [saidalisaid2](https://github.com/saidalisaid2) | [COCO SIR](https://github.com/cocosir007/COCOSIR)
 Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
