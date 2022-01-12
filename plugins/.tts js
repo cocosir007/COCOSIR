@@ -13,7 +13,7 @@ const Language = require('../language');
 const Lang = Language.getString('ttp');
 
 
-if (Config.WORKTYPE == 'private') {
+if (Config.WORKTYPE == 'public') {
     Asena.addCommand({ pattern: 'ttp ?(.*)', fromMe: true, desc: Lang.TTP_DESC }, (async (message, match) => {
         if (match[1] === '') return await message.client.sendMessage(message.jid,Lang.NEED_WORD, MessageType.text);
         var uri = encodeURI(match[1])
