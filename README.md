@@ -14,7 +14,7 @@
 <a href="#"><img title="COCO SIR" src="https://img.shields.io/badge/AMEERSUHAIL-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/ameer-kallumthodi"><img title="Author" src="COCO SIR"></a>
+<a href="https://github.com/cocosir007/COCOSIR"><img title="Author" src="COCO SIR"></a>
 </p>
 </div>
 <p align="center">
