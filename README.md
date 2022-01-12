@@ -5,7 +5,7 @@
 
 <div align="center">
 
-## [![PIKACHU](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+Pikachu+WA+Bot+repo;Created+by+Ameer+Suhail;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+## [![COCOSIR](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+COCOSIR+WA+Bot+repo;Created+by+Ameer+Suhail;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
 
  </a>
 </p>
@@ -39,7 +39,7 @@ Project created by <a href="https://github.com/cocosir007/COCOSIR">COCO SIR</a> 
 
 <p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ameer-kallumthodi&show_icons=true&theme=dark&locale=en" alt="COCO SIR" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cocosir007&show_icons=true&theme=dark&locale=en" alt="COCO SIR" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=COCOSIR&theme=dark" alt="COCOSIR" /></p>
 </p>
@@ -57,7 +57,7 @@ Click WA logo to Join Support Group 👇
 ## 
   <h3 align="center">📢 Support Group 2:</h3>
 <p align="center">
-Click Pikachu logo to Join Support Group 2👇
+Click COCOSIR logo to Join Support Group 2👇
     <br>
 <br>
   <a href="https://chat.whatsapp.com/ClIuinq4YYl9fsB7WxbqGm" target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
@@ -68,7 +68,7 @@ Click Pikachu logo to Join Support Group 2👇
 
   ### Simple Method
   
-[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@pikachucreator/pikachu-QR)
+[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@COCOSIRcreator/COCOSIR-QR)
 
 [![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=HTTPS://github.com/cocosir007/COCOSIR.git)
      </div>
@@ -121,21 +121,21 @@ By establishing the COCO SIR, you are deemed to have accepted these responsibili
 ## Developers
   <div align="center">
     
-  [![ameer-kallumthodi](https://github.com/ameer-kallumthodi.png?size=100)](https://github.com/ameer-kallumthodi) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
+  [![cocosir007](https://github.com/cocosir007.png?size=100)](https://github.com/cocosir007) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
 ----|----|----
-[Ameer Suhail](https://github.com/ameer-kallumthodi) | [saidalisaid2](https://github.com/saidalisaid2) | [COCO SIR](https://github.com/cocosir007/COCOSIR)
+[COCO SIR](https://github.com/cocosir007) | [saidalisaid2](https://github.com/saidalisaid2) | [COCO SIR](https://github.com/cocosir007/COCOSIR)
 Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
 ## Contributors
-`Ameer Suhail`
+`COCO SIR`
 `Afnanplk`
 `Cyberchekuthan`
 `Farhan-Dqz`
 `Saidalisaid`
 `Souravkl11`
  `COCOSIR`       
-        
+ `PINKY MWOL`       
 ## License
 This project is protected by `GNU General Public Licence v3.0` license.
 
