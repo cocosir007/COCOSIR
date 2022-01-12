@@ -14,7 +14,7 @@
 <a href="#"><img title="COCO SIR" src="https://img.shields.io/badge/AMEERSUHAIL-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/ameer-kallumthodi"><img title="Author" src="https://img.shields.io/badge/Author-ameer-kallumthodi/pikachu?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/ameer-kallumthodi"><img title="Author" src="COCO SIR"></a>
 </p>
 </div>
 <p align="center">
@@ -134,7 +134,7 @@ Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
 `Farhan-Dqz`
 `Saidalisaid`
 `Souravkl11`
-        
+ `COCOSIR`       
         
 ## License
 This project is protected by `GNU General Public Licence v3.0` license.
