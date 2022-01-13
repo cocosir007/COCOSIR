@@ -14,11 +14,11 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
 
 *YOUTUBE CHANNEL : *https://youtube.com/channel/UCOxp3D41xx1aB-M0Hv0Xi3A*
 
-*Githublink (Setup)  :    *https://github.com/cocosir007/COCOSIR*
+*Githublink (Setup)  : *https://github.com/cocosir007/COCOSIR*
 
-*Audio commads :   https://github.com/ameer-kallumthodi/pikachu/tree/master/uploads*
+*Audio commads : *https://github.com/cocosir007/COCOSIR/tree/master/uploads*
 
-*Sticker commads : https://github.com/ameer-kallumthodi/pikachu/tree/master/uploads*
+*Sticker commads : *https://github.com/cocosir007/COCOSIR/tree/master/uploads*
 
 *SUBSCRIBE : https://youtube.com/channel/UCOxp3D41xx1aB-M0Hv0Xi3A* 
 
