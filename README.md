@@ -68,7 +68,7 @@ Click COCOSIR logo to Join Support Group 2👇
 
   ### Simple Method
   
-[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@COCOSIRcreator/COCOSIR-QR)
+[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@COCOFF/Cocosir-QR)
 
 [![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=HTTPS://github.com/cocosir007/COCOSIR.git)
      </div>
