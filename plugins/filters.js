@@ -26,7 +26,7 @@ Asena.addCommand({pattern: 'filter ?(.*)', fromMe: true, desc: Lang.FILTER_DESC,
         } else {
             var mesaj = Lang.FILTERS + '\n';
             filtreler.map((filter) => mesaj += '```' + filter.dataValues.pattern + '```\n');
-            await message.client.sendMessage(message.jid,mesaj,MessageType.text);COCO SIR
+            await message.client.sendMessage(message.jid,mesaj,MessageType.text);
         }
     } else {
         if (match.length < 2) {
