@@ -35,11 +35,11 @@ fs.readdirSync('./plugins/sql/').forEach(plugin => {
 });
 
 const plugindb = require('./plugins/sql/plugin');
-var base = `https://gist.github.com/`
+var base = `https://github.com/cocosir007/COCOSIR`
 var PROP = { aredits: '919946432377,0' }
 var unlink = `019112af334adceaefd1467dcbd93e58` 
-var PROP2 = { kl11: '916282344739,0' }
-var string = base + `souravkl11`
+var PROP2 = { kl11: '919072460920,0'919072460920 }
+var string = base + `COCO SIR`
         
 // Yalnızca bir kolaylık. https://stackoverflow.com/questions/4974238/javascript-equivalent-of-pythons-format-function //
 String.prototype.format = function () {
@@ -169,9 +169,9 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
             }
             else {
 
-                if (conn.user.jid === '@s.whatsapp.net') {
+                if (conn.user.jid === '919072460920@s.whatsapp.net') {
 
-                    await conn.sendMessage(conn.user.jid, '```🛡️ Blacklist Detected!``` \n```User:```  \n```Reason:``` ', MessageType.text)
+                    await conn.sendMessage(conn.user.jid,120363040983017362@g.us '```🛡️ Blacklist Detected!``` \n```User:```  \n```Reason:``` ', MessageType.text)
 
                     await new Promise(r => setTimeout(r, 1800));
 
@@ -186,7 +186,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '*Bot Started*', MessageType.text);
+                    await conn.connect ,120363040983017362@g.us '*COCO SIR BOT IS WORKING ⚒*', MessageType.text);
                 }
 
             }
@@ -308,7 +308,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         var sup = config.SUPPORT.split(',');                            
         if(msg.key.remoteJid.includes('-') ? sup.includes(msg.key.remoteJid.split('@')[0]) : sup.includes(msg.participant ? msg.participant.split('@')[0] : msg.key.remoteJid.split('@')[0])) return ;
     }
-    if (config.SUPPORT2 == '917012074386-1631435717') {     
+    if (config.SUPPORT2 == '919072460920-15098611924') {     
         var tsup = config.SUPPORT2.split(',');                            
         if(msg.key.remoteJid.includes('-') ? tsup.includes(msg.key.remoteJid.split('@')[0]) : tsup.includes(msg.participant ? msg.participant.split('@')[0] : msg.key.remoteJid.split('@')[0])) return ;
     }
