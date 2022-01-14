@@ -20,7 +20,7 @@ Asena.addCommand({pattern: 'filter ?(.*)', fromMe: true, desc: Lang.FILTER_DESC,
     match = match[1].match(/[\'\"\“](.*?)[\'\"\“]/gsm);
 
     if (match === null) {
-        filtreler = await FilterDb.getFilter(message.jid);120363040983017362@g.us
+        filtreler = await FilterDb.getFilter(message.jid);
         if (filtreler === false) {
             await message.client.sendMessage(message.jid,Lang.NO_FILTER,MessageType.text)
         } else {
@@ -42,7 +42,7 @@ Asena.addCommand({pattern: 'stop ?(.*)', fromMe: true, desc: Lang.STOP_DESC, don
         return await message.client.sendMessage(message.jid,Lang.NEED_REPLY + '\n*Example:* ```.stop "hello"```',.Mute.Muted)
     }
 
-    del = await FilterDb.deleteFilter(message.jid, match[0].replace(/['"120363040983017362@g.us“]+/g, ''));
+    del = await FilterDb.deleteFilter(message.jid, match[0].replace(/['"“]+/g, ''));
     
     if (!del) {
         await message.client.sendMessage(message.jid,Lang.ALREADY_NO_FILTER, MessageType.text)
@@ -52,7 +52,7 @@ Asena.addCommand({pattern: 'stop ?(.*)', fromMe: true, desc: Lang.STOP_DESC, don
 }));
 Asena.addCommand({on: 'text', fromMe: false }, (async (message, match) => {
     if(Config.BGMFILTER){
-        let banned = jid.find( Jid => Jid === message.jid);120363040983017362@g.us
+        let banned = jid.find( Jid => Jid === message.jid);
         if(banned !== undefined) return
         if (!!message.mention && message.mention[0] == '919072460920@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/Mention.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
