@@ -121,7 +121,7 @@ By establishing the COCO SIR, you are deemed to have accepted these responsibili
 ## Developers
   <div align="center">
     
-  [![cocosir007](https://github.com/cocosir007.png?size=100)](https://github.com/cocosir007) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
+  [![cocosir007](https://github.com/cocosir007/COCOSIR/blob/master/Remini20220117154849077.jpg?size=100)](https://github.com/cocosir007) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/cocosir007/COCOSIR/blob/master/Remini20220117154849077.jpg?size=100)](https://github.com/souravkl11) 
 ----|----|----
 [COCO SIR](https://github.com/cocosir007) | [saidalisaid2](https://github.com/saidalisaid2) | [COCO SIR](https://github.com/cocosir007/COCOSIR)
 Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
