@@ -1,6 +1,6 @@
-<a href="https://bit.ly/3koZRGY"><img src="https://fontmeme.com/permalink/210920/2ae6399b753c4a6e4d92490e52ae17fb.png" alt="google-font" border="0"></a>
+<a href="https://bit.ly/3koZRGY"><img src="https://github.com/cocosir007/COCOSIR/blob/master/Remini20220117154849077.jpg" alt="google-font" border="0"></a>
 <div align="center">
-        <img src="https://github.com/cocosir007/COCOSIR/blob/master/Remini20220117154849077.jpg" alt="img" width="200" height="200"/>
+        
 </p>
 
 <div align="center">
@@ -11,7 +11,7 @@
 </p>
 <div align="center">
  <p align="center">
-<a href="#"><img title="COCO SIR" src="https://img.shields.io/badge/AMEERSUHAIL-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="COCO SIR" src="https://img.shields.io/badge/COCO SIR-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/cocosir007/COCOSIR"><img title="Author" src="COCO SIR"></a>
