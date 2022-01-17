@@ -60,7 +60,7 @@ Click WA logo to Join Support Group 👇
 Click COCOSIR logo to Join Support Group 2👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/ClIuinq4YYl9fsB7WxbqGm" target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
+  <a href="https://chat.whatsapp.com/ClIuinq4YYl9fsB7WxbqGm" target="blank"><img align="center" src="https://github.com/cocosir007/COCOSIR/blob/master/Remini20220117154849077.jpg" alt="kyrie.baran" height="200" width="200" /></a>
 </p>
     
 ## Setup
